@@ -40,11 +40,11 @@ This repository documents a machine learning project for the classification of r
 
 - Encode the categorical variable 'Category' into numerical values using label encoding.
 
-### 9. Converted Text to Feature Vectors (TF-IDF):
+### 9. Converted Text to Feature Vectors (TF-IDF)
    
 - Utilize the TF-IDF (Term Frequency-Inverse Document Frequency) vectorizer to convert the cleaned resume text into numerical feature vectors. This process involves tokenizing documents, learning vocabulary, and calculating inverse document frequency weightings.
 
-### 10. Applied Naive Bayes Classifier:
+### 10. Applied Naive Bayes Classifier
     
 - Split the data into training and testing sets.
 - Implement a Naive Bayes Classifier, specifically the MultinomialNB model, to train on the feature vectors and make predictions.

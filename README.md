@@ -8,7 +8,7 @@ This repository documents a machine learning project for the classification of r
 
 ### 1. Read the UpdatedResumeDataset.csv dataset
 
-- Load the dataset using the pandas library to initiate the project.
+- Loaded the dataset using the pandas library to initiate the project.
 
 ### 2. Displayed Categories and Counts
    
@@ -28,27 +28,27 @@ This repository documents a machine learning project for the classification of r
 
 ### 6. Defined a function to clean the resume text
 
-- Develop a cleaning function to remove special characters, URLs, RT, punctuations, and extra whitespace.
-- Store the cleaned text in a new column for further analysis.
+- Developed a cleaning function to remove special characters, URLs, RT, punctuations, and extra whitespace.
+- Stored the cleaned text in a new column for further analysis.
 
 ### 7. Used nltk package to find the most common words and Generate Word Cloud
 
-- Utilize the nltk library to tokenize the cleaned resume text and identify the most common words.
-- Create a Word Cloud to visually represent the most frequently occurring words in the resume text.
+- Utilized the nltk library to tokenize the cleaned resume text and identify the most common words.
+- Created a Word Cloud to visually represent the most frequently occurring words in the resume text.
 
 ### 8. Converted the categorical variable Category to a numerical feature
 
-- Encode the categorical variable 'Category' into numerical values using label encoding.
+- Encoded the categorical variable 'Category' into numerical values using label encoding.
 
 ### 9. Converted Text to Feature Vectors (TF-IDF)
    
-- Utilize the TF-IDF (Term Frequency-Inverse Document Frequency) vectorizer to convert the cleaned resume text into numerical feature vectors. This process involves tokenizing documents, learning vocabulary, and calculating inverse document frequency weightings.
+- Utilized the TF-IDF (Term Frequency-Inverse Document Frequency) vectorizer to convert the cleaned resume text into numerical feature vectors. This process involves tokenizing documents, learning vocabulary, and calculating inverse document frequency weightings.
 
 ### 10. Applied Naive Bayes Classifier
     
-- Split the data into training and testing sets.
-- Implement a Naive Bayes Classifier, specifically the MultinomialNB model, to train on the feature vectors and make predictions.
-- Evaluate the model's performance by calculating accuracy and providing a detailed classification report.
+- Splitted the data into training and testing sets.
+- Implemented a Naive Bayes Classifier, specifically the MultinomialNB model, to train on the feature vectors and make predictions.
+- Evaluated the model's performance by calculating accuracy and providing a detailed classification report.
 
 ## Project Link
 

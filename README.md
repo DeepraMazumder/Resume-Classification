@@ -52,6 +52,6 @@ This repository documents a machine learning project for the classification of r
 
 ## Project Link
 
-Explore the complete project, including the Jupyter notebook with code and visualizations, at [Project Link](https://colab.research.google.com/drive/1Xmu9T5U3IjALypeJ55WZCUWFD2HNZSSH?usp=sharing).
+Explore the complete project, including the Jupyter notebook with code and visualizations, at [Project Link](https://colab.research.google.com/drive/1-Y7YM9YLctt2BdncASrJx9Vdr8-B22dT?usp=sharing).
 
 Feel free to adapt and use the provided code for your own resume classification tasks. For any questions or suggestions, please open an issue or reach out. Happy exploring!

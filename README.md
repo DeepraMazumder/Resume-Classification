@@ -1,4 +1,4 @@
-# Resume Classification Project using Naive Bayes Classifier
+# Resume Classification using Naive Bayes Classifier
 
 ## Overview
 
